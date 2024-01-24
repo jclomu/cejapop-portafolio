@@ -51,15 +51,15 @@ const StyledLink = styled(Link)`
 `;
 
 const MusicSection = styled(Section)`
-  background-image: url(https://res.cloudinary.com/dbtupr3la/image/upload/v1705963432/Portafolio%20Cejapop/cejon-estudio-labestia.jpg);
+  background-image: url(https://res.cloudinary.com/dbtupr3la/image/upload/v1705963432/Portafolio%20Cejapop/Panel/cejon-estudio-labestia.jpg);
 `;
 
 const DevWebSection = styled(Section)`
-  background-image: url(https://res.cloudinary.com/dbtupr3la/image/upload/v1705963607/Portafolio%20Cejapop/devweb.jpg);
+  background-image: url(https://res.cloudinary.com/dbtupr3la/image/upload/v1705963607/Portafolio%20Cejapop/Panel/devweb.jpg);
 `;
 
 const UtilidadesSection = styled(Section)`
-  background-image: url(https://res.cloudinary.com/dbtupr3la/image/upload/v1705963742/Portafolio%20Cejapop/herramientas-gratis.jpg);
+  background-image: url(https://res.cloudinary.com/dbtupr3la/image/upload/v1705963742/Portafolio%20Cejapop/Panel/herramientas-gratis.jpg);
 `;
 
 const AboutSection = styled(Section)`
