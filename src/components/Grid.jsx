@@ -9,7 +9,7 @@ function Grid() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('src/data/db.json'); // Ajusta la ruta del archivo JSON
+        const response = await fetch('/data/db.json'); // Ajusta la ruta del archivo JSON
         const data = await response.json();
         setSitesData(data.sitesData);
       } catch (error) {
