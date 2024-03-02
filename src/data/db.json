@@ -1,6 +1,14 @@
 {
   "sitesData": [
     {
+      "id": 0,
+      "nombre": "Acme Dashboard",
+      "descripcion": "Dashboard interactivo con Next.JS.",
+      "url": "https://nextjs-fisrt-app-byjclomu.vercel.app/dashboard",
+      "img": "https://res.cloudinary.com/dbtupr3la/image/upload/v1709362997/Portafolio%20Cejapop/Sites/Screen_Shot_2024-03-02_at_1.02.24_zr2vss.png",
+      "git": "https://github.com/jclomu/nextjs-fisrt-app/"
+    },
+    {
       "id": 1,
       "nombre": "Tetris",
       "descripcion": "Clásico juego de Tetris elaborado con JavaScript.",
