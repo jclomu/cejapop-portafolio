@@ -4,6 +4,8 @@ import Barra from '../components/Barra';
 import styled from 'styled-components';
 import { Container } from 'react-bootstrap';
 import Spotify from '../components/Spotify';
+import Youtube from '../components/Youtube';
+
 
 
 
@@ -39,8 +41,9 @@ function Music() {
     <>
     <Barra />
     <Container>
-      <StyledTitulo>Mis composiciones, producciones y colaboraciones</StyledTitulo>
+      <StyledTitulo>Music</StyledTitulo>
       <Spotify />
+      <Youtube />
     </Container>
     </>
   );

@@ -30,7 +30,14 @@ function Grid() {
             <Card.Body>
               <Card.Title>{site.nombre}</Card.Title>
               <Card.Text>{site.descripcion}</Card.Text>
-              <Button variant="outline-dark" href={site.url}>Demo</Button>
+              <Button 
+                variant="outline-dark" 
+                href={site.url} 
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                Demo
+              </Button>
             </Card.Body>
           </Card>
         </Col>

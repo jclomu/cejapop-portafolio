@@ -35,7 +35,7 @@ return (
   <>
     <Barra />
     <Container>
-      <StyledTitulo>Mis sitios y aplicaciones web</StyledTitulo>
+      <StyledTitulo>Web Development</StyledTitulo>
       <Grid />
         
     </Container>

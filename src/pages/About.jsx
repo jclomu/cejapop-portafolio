@@ -6,11 +6,6 @@ import Barra from '../components/Barra';
 import TextoAbout from '../components/TextoAbout';
 import RedesSociales from '../components/RedesSociales';
 
-
-
-
-
-
 const StyledTitulo = styled.h2`
   font-size: 80px;
   font-weight: bold;
@@ -42,7 +37,7 @@ function About() {
     <>
       <Barra />
         <Container>
-          <StyledTitulo>"Qiobo" <h2>✌️👽</h2></StyledTitulo>
+          <StyledTitulo>Hey! <h2>✌️👽</h2></StyledTitulo>
           <TextoAbout />
           <RedesSociales />
         </Container>

@@ -87,7 +87,7 @@ function Panel() {
     <MusicSection>  
       <Content>
         <StyledLink to="/music">
-          <Title>Música</Title>
+          <Title>Music</Title>
         </StyledLink>
       </Content>
       <Overlay />
@@ -96,7 +96,7 @@ function Panel() {
     <DevWebSection>
       <Content>
         <StyledLink to="/devweb">
-          <Title>DevWeb</Title>
+          <Title>WebDev</Title>
         </StyledLink>
       </Content>
       <Overlay />
@@ -104,7 +104,7 @@ function Panel() {
     <UtilidadesSection>
     <Content>
         <StyledLink to="/tools">
-          <Title>Descargas</Title>
+          <Title>Downloads</Title>
         </StyledLink>
       </Content>
     <Overlay />
@@ -112,7 +112,7 @@ function Panel() {
     <AboutSection>
     <Content>
         <StyledLink to="/about">
-          <Title>Conóceme</Title>
+          <Title>About Me</Title>
         </StyledLink>
       </Content>
       <Overlay />

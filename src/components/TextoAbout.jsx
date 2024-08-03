@@ -15,35 +15,30 @@ const StyledTexto = styled.p`
 
 function TextoAbout() {
   return (
-   <>
-   <StyledTexto>
-      Soy Julio, muchos me conocen como Cejón, de ahí la raíz de "CejaPOP", tengo 29 años. Politécnico por convicción, Desarrollador por progreso y Músico por naturaleza ¿o era pasión? 
-    </StyledTexto>  
-   <StyledTexto>
-      Soy Técnico en Sistemas de Control e Ing. truncado en Control y Automatización del IPN, continuamente me actualizo con diplomados de Desarrollo Web Full Stack y llevo un par de años desarrollando sistemas multiplataforma utilizando Técnologías como APPSHEET, REACT, PYTHON Y PHP.
-    </StyledTexto>  
-   <StyledTexto>
-      También estudié piano y guitarra en Gmartell pero donde me "curtí musicalmente" fue escenarios, giras y estudios. He desempeñado en la industria musical como Instrumentista, Productor, Ing de Audio o Staff durante 15 años.   
-    </StyledTexto>  
-    <StyledTexto>
-      Bueno, para no hacerte el cuento tan largo, éste espacio digital está enfocado en ofrecer soluciones digitales o musicales y si se puede ambas, ¿Qué mejor para mí?... 
-    </StyledTexto>  
-    <StyledTexto>
-        No dudes en contactarme si consideras que soy la mejor opción para ti, seguro haremos buen equipo.
-    </StyledTexto>  
-    <StyledTexto>
-        Gracias tu visita.
-    </StyledTexto>  
-    <StyledTexto>
-        Chao    
-    </StyledTexto>  
-   </> 
+    <>
+      <StyledTexto>
+        I am a Technician in Control Systems with formation in Engineering in Control and Automation from the National Polytechnic Institute (IPN). I stay updated with Full Stack Web Development courses and have been developing multiplatform systems for several years using technologies such as AppSheet, React, and PHP.
+      </StyledTexto>
+      <StyledTexto>
+        In addition to my technical background, I studied piano and guitar at Gmartell, but my true musical training happened on stages, tours, and recording studios. I have over 7 years of experience in the music industry, working as an instrumentalist, producer, audio engineer, and staff.</StyledTexto>
+      <StyledTexto>
+        This digital space is dedicated to offering innovative solutions in both the digital and musical fields, and if possible, combining both. I love the idea of creating projects that integrate my two passions.
+      </StyledTexto>
+      <StyledTexto>
+        If you think I could be the best fit for your needs, don't hesitate to contact me. I'm sure we can make a great team.      </StyledTexto>
+      <StyledTexto>
+        Thank you for visiting!
+      </StyledTexto>
+      <StyledTexto>
+        Best regards.
+      </StyledTexto>
+    </>
 
 
 
-      
 
-    
+
+
   );
 }
 
