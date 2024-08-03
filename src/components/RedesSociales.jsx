@@ -58,13 +58,13 @@ function RedesSociales() {
       </a>
 
       {/* WHATSAPP */}
-      <a href="https://wa.me/525578972895?text=Hola%2C%20Cej%C3%B3n.%20Vi%20tu%20portafolio%20digital%20y%20estoy%20bastante%20interesado%20en%20que%20colaboremos." target="_blank" rel="noopener noreferrer">
+      <a href="https://wa.me/525578972895" target="_blank" rel="noopener noreferrer">
         <IconItem style={{ backgroundImage: 'url("https://res.cloudinary.com/dbtupr3la/image/upload/v1706101520/Portafolio%20Cejapop/RRSS/whatsapp_ri7hrk.png")' }}>
         </IconItem>
       </a>
 
       {/* SVG ICON */}
-      <a href="#" target="_blank" rel="noopener noreferrer">
+      <a href="mailto:cejapop@gmail.com" target="_blank" rel="noopener noreferrer">
         <SvgIcon>
           <svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
             <rect fill="#fff" height="512" rx="15%" width="512"/>

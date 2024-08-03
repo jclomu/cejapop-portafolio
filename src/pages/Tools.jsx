@@ -39,7 +39,7 @@ function Tools() {
       <Container>
         <StyledTitulo>Free Tools Downloads</StyledTitulo>
 
-        <Row xs={1} md={2} className="g-4">
+        <Row xs={1} md={2} className="g-4 ">
           <Col>
             <Card>
               <Card.Img variant="top" src="https://res.cloudinary.com/dbtupr3la/image/upload/v1706095674/Portafolio%20Cejapop/Tools/production-check-google_ibytgq.png" />
