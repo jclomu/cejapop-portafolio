@@ -1,6 +1,14 @@
 {
   "sitesData": [
     {
+      "id": 31,
+      "nombre": "Weather-App",
+      "descripcion": "Check the weather in different cities",
+      "url": "https://weather-app-byjclomu.netlify.app/",
+      "img": "https://res.cloudinary.com/dbtupr3la/image/upload/v1724036608/Screen_Shot_2024-08-18_at_21.02.30_vihymt.png",
+      "git": "https://github.com/jclomu/weather-app"
+    },
+    {
       "id": 27,
       "nombre": "Guitar LA",
       "descripcion": "Cart for an ecommerce with React",
