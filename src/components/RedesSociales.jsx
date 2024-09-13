@@ -46,10 +46,10 @@ function RedesSociales() {
   return (
     <ContainerStyle>
       {/* INSTAGRAM */}
-      <a href="https://www.instagram.com/yo.cejon/" target="_blank" rel="noopener noreferrer">
+      {/* <a href="https://www.instagram.com/yo.cejon/" target="_blank" rel="noopener noreferrer">
         <IconItem style={{ backgroundImage: 'url("https://res.cloudinary.com/dbtupr3la/image/upload/v1706101521/Portafolio%20Cejapop/RRSS/instagram_bkcaym.png")' }}>
         </IconItem>
-      </a>
+      </a> */}
 
       {/* GITHUB */}
       <a href="https://github.com/jclomu" target="_blank" rel="noopener noreferrer">

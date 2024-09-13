@@ -17,10 +17,10 @@ function TextoAbout() {
   return (
     <>
       <StyledTexto>
-        I am a Technician in Control Systems with formation in Engineering in Control and Automation from the National Polytechnic Institute (IPN). I stay updated with Full Stack Web Development courses and have been developing multiplatform systems for several years using technologies such as AppSheet, React, and PHP.
+        I studied Engineering in Control and Automation at National Polytechnic Institute (IPN). I stay updated with Web Development courses and have been developing multiplatform systems and webpages.
       </StyledTexto>
       <StyledTexto>
-        In addition to my technical background, I studied piano and guitar at Gmartell, but my true musical training happened on stages, tours, and recording studios. I have over 7 years of experience in the music industry, working as an instrumentalist, producer, audio engineer, and staff.</StyledTexto>
+        In addition to my technical background, I'm a passionate creative and musician.</StyledTexto>
       <StyledTexto>
         This digital space is dedicated to offering innovative solutions in both the digital and musical fields, and if possible, combining both. I love the idea of creating projects that integrate my two passions.
       </StyledTexto>
